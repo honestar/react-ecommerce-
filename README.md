@@ -16,10 +16,6 @@ Built with:
 * MongoDB >= 3.2
 
 
-## Documentation
-
-[Documentation](https://github.com/honestar/react-ecommerce-/tree/master/docs)
-
 
 ## Application Structure
 
